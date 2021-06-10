@@ -11,3 +11,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(3000);
+
+// watch from 32 (routing requests)- great info max-node.js the cmplete guide
